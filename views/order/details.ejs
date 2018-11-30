@@ -1,0 +1,24 @@
+<br/>
+<br/>
+<h2>customer details</h2>
+<br/> ID:
+<%=  order._id %>
+  <br> Email:
+  <%=order.email %>
+    <br/> datePlaced:
+    <%=order.datePlaced%>
+    <br/> dateShipped:
+      <%=order.dateShipped%>
+     <br/>paymentType:
+      <%=order.paymentType%>
+     <br/>
+     <br/>amountDue:
+      <%=order.amountDue%>
+     <br/>paid:
+      <%=order.paid%>
+   <br/>   
+            <br/>
+            <br/>
+            <form method="get" action="/customer">
+              <input type="submit" value="Return to list" class="btn btn-caution" />
+            </form>

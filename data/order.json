@@ -1,0 +1,47 @@
+[
+    {
+        "_id": 1,
+        "email": "pedditarakaraviteja@gmail.com",
+        "datePlaced": "2018-10-29",
+        "dateShipped": "2018-11-01",
+        "paymentType": "Cash",
+        "amountDue": 44.98,
+        "paid": true
+    },
+	{
+        "_id": 2,
+        "email": "bijjamkarthikreddy@gmail.com",
+        "datePlaced": "2018-10-29",
+        "dateShipped": "2018-11-01",
+        "paymentType": "Credit Card",
+        "amountDue": 45.98,
+        "paid": true
+    },
+	{
+        "_id": 3,
+        "email": "Venkatakhil.pendem@gmail.com",
+        "datePlaced": "2018-10-29",
+        "dateShipped": "2018-11-01",
+        "paymentType": "Cash",
+        "amountDue": 45.98,
+        "paid": true
+    },
+	{
+        "_id": 4,
+        "email": "srikanth.vaf79@gmail.com",
+        "datePlaced": "2018-10-29",
+        "dateShipped": "2018-11-01",
+        "paymentType": "Cash",
+        "amountDue": 26.98,
+        "paid": true
+    },
+	{
+        "_id": 5,
+        "email": "suryarajkp@gmail.com",
+        "datePlaced": "2018-10-29",
+        "dateShipped": "2018-11-01",
+        "paymentType": "Credit Card",
+        "amountDue": 52.98,
+        "paid": true
+    }
+]

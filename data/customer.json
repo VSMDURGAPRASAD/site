@@ -1,0 +1,78 @@
+[
+    {
+        "_id": 1,
+       
+        "Firstname": "tarakaraviteja",
+        "Lastname": "Peddi",
+        "email": "pedditarakaraviteja@gmail.com",
+        "age":22,
+        "street1": "1121N College Drive",
+        "street2": "Horizon west apartments",
+        "city": "Maryville",
+        "state":"MO",
+        "country": "USA",
+        "zip": 64468
+       
+    },
+    {
+        "_id": 2,
+       
+        "Firstname": "Karthik",
+        "Lastname": "Bijjam",
+        "email": "bijjamkarthikreddy@gmail.com",
+        "age":23,
+        "street1": "1131N College Drive",
+        "street2": "Horizon west apartments",
+        "city": "Maryville",
+        "state":"MO",
+        "country": "USA",
+        "zip": 64468
+       
+    },
+
+    {
+        "_id": 3,
+       
+        "Firstname": "Akhil",
+        "Lastname": "Pendem",
+        "email": "Venkatakhil.pendem@gmail.com ",
+        "age":21,
+        "street1": "1121N College Drive",
+        "street2": "Horizon west apartments",
+        "city": "Maryville",
+        "state":"MO",
+        "country": "USA",
+        "zip": 64468
+       
+    },
+    {
+        "_id": 4,
+       
+        "Firstname": "Srikanth",
+        "Lastname": "Yelamati",
+        "email": "srikanth.vaf79@gmail.com",
+        "age":22,
+        "street1": "1121N College Drive",
+        "street2": "Horizon west apartments",
+        "city": "Maryville",
+        "state":"MO",
+        "country": "USA",
+        "zip": 64468
+       
+    },
+    {
+        "_id": 5,
+       
+        "Firstname": "surya",
+        "Lastname": "kp",
+        "email": "suryarajkp@gmail.com",
+        "age":23,
+        "street1": "1121N College Drive",
+        "street2": "Horizon west apartments",
+        "city": "Maryville",
+        "state":"MO",
+        "country": "USA",
+        "zip": 64468
+       
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "_id": 1,
+        "productKey": "JavaScript Book",
+        "productdescription": "Complete Reference Book",
+        "pricePerUnit":12,
+        "quantity":2,    
+        "ratings":3.2,
+        "productAssurance":"Guarentee",
+        "manufactureddate":"08/11/2018",
+        "expirydate":"08/11/2020"
+    },
+    {
+        "_id":2,
+        "productKey":"HardDisk4Tb",
+        "productdescription":"Sea Gate Company",
+        "pricePerUnit":70.5, 
+        "quantity":2,      
+        "ratings":4.0,
+        "productAssurance":"Guarentee",
+        "manufactureddate":"08/11/2018",
+        "expirydate":"08/11/2020"
+     },
+    {
+        "_id":3,
+        "productKey":"Iphone5s",
+        "productdescription":"IphoneCompany Usa ",
+        "pricePerUnit":500,  
+        "quantity":2,  
+        "ratings":4.2,
+        "productAssurance":"Guarentee",
+        "manufactureddate":"08/11/2018",
+        "expirydate":"08/11/2020"
+     },
+     {
+        "_id":4,
+        "productKey":"HomeAccessoriesKit",
+        "productdescription":"A home made product from China",
+        "pricePerUnit":120,
+        "quantity":2,    
+        "ratings":2.9,
+        "productAssurance":"Guarentee",
+        "manufactureddate":"08/11/2018",
+        "expirydate":"08/11/2020"
+
+     },
+     {
+        "_id":5,
+        "productKey":"Choclates",
+        "productdescription":"A Product From India .Delicious Indian Choclate Company",
+        "pricePerUnit":35,
+        "quantity":2,       
+        "ratings":4.5,
+        "productAssurance":"Guarentee",
+        "manufactureddate":"08/11/2018",
+        "expirydate":"08/11/2020"
+
+
+     }
+     
+   
+  
+
+]
